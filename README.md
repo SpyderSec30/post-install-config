@@ -86,6 +86,41 @@ Make two users, set your own username and password for these users. Be sure to e
 <img src="https://github.com/SpyderSec30/osticket-prereqs/assets/174487140/df05a05a-e3e9-43f2-9995-a97b13b0c180"/><br></br>
 
 <h2>Users</h2>
-For the purpose of this lab we will create users who can create tickets so that we can view the process and the life of a ticket in an IT environment.
+For the purpose of this lab we will create users who can create tickets so that we can view the process and the life of a ticket in an IT environment. For the first time in this lab we will navigate to the Agent panel, then select Users. Here you will see a similar screen and select "Add User". We're going to make two users. <br></br>
+
+- Kathy Smith
+- Ben Smith
+
+<img src="https://github.com/SpyderSec30/osticket-prereqs/assets/174487140/ac7a3f45-a1cb-463a-9c4a-1d248d19cde5"/><br></br>
+<img src="https://github.com/SpyderSec30/osticket-prereqs/assets/174487140/cf047e4a-69d7-4f54-a5fd-e1031d946db9"/><br></br>
+
+<h2>Configuring Service Level Agreements (SLAs)</h2>
+Go back to the Admin Panel, SLAs are located in the Manage tab next to settings. For this lab we will be setting:
+
+- SEV-A (1 hour, 24/7)
+- SEV-B (4 hours, 24/7)
+- SEV-C (8 hours, business hours)
+
+<img src="https://github.com/SpyderSec30/osticket-prereqs/assets/174487140/24f3923d-952e-4279-a2bb-da54e82f036e"/><br></br>
+<img src="https://github.com/SpyderSec30/osticket-prereqs/assets/174487140/0d787545-d34c-4337-b64e-6b3c90257b98"/><br></br>
+
+<h2>Help Topics</h2>
+Help Topics will help streamline your end-user's help desk to ensure proper assignement of tickets. Help Topics are located in the same place as SLAs, you should see it as the first option in that same list.<br></br>
+
+We'll set some Help Topics:
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Resets
+ 
+
+<img src="https://github.com/SpyderSec30/osticket-prereqs/assets/174487140/d07e953c-6567-49f2-acd1-1ff1d95443bf"/><br></br>
+<img src="https://github.com/SpyderSec30/osticket-prereqs/assets/174487140/02ab464a-bc11-4e34-9e88-1dc4e8cde933"/><br></br>
+
+<h2>Finished</h2>
+These are some of the basic configuration that we'll use in <a href="https://github.com/SpyderSec30/ticket-lifecycle">Life Cycle of a Ticket</a> to further demonstrate how Tickets are handled in a professional IT setting.
+
+
+
 </p>
 
